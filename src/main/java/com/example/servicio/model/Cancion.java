@@ -15,24 +15,4 @@ public class Cancion {
     public int getId() {
         return id;
     }
-
-    public String getTitulo() {
-        return titulo;
-    }
-
-    public String getArtista() {
-        return artista;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
-
-    public void setArtista(String artista) {
-        this.artista = artista;
-    }
 }
