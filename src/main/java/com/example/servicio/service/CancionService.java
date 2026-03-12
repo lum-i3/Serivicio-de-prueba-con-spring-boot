@@ -1,4 +1,4 @@
 package com.example.servicio.service;
 
-public class ObjetoService {
+public class CancionService {
 }

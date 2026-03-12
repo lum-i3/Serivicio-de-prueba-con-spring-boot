@@ -1,4 +1,4 @@
 package com.example.servicio.controller;
 
-public class ObjetoController {
+public class CancionController {
 }
