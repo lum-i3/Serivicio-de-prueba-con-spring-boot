@@ -15,4 +15,12 @@ public class Cancion {
     public int getId() {
         return id;
     }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public String getArtista() {
+        return artista;
+    }
 }

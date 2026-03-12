@@ -26,9 +26,8 @@ public class CancionService {
 
     public Cancion obtenerCancionPorId(int id){
 
-        for(int i = 0; i < canciones.size(); i++){
-            Cancion c = canciones.get(i);
-            if(c.getId() == id){
+        for (Cancion c : canciones) {
+            if (c.getId() == id) {
                 return c;
             }
         }
